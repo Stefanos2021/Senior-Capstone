@@ -16,6 +16,7 @@ conduct their tasks in an aesthetically pleasing platform. The dashboard will be
 perform a range of operations to make sure the employees are organized and have a
 successful experience. Avoiding unforced errors made by outdated or overly complex
 technology is something we aim to push our partners away from
+<img src ="Detailed Solution.png"/>
 
 ## High Level Functional and Nonfunctional Requirements that this project meets
 
@@ -35,6 +36,8 @@ variety of different screen sizes.
 - Admin will be able to Create, Read, Update, Delete, Schedules
 - Admin will have access to a setting page.
 - Admin will be directed to the EmployeeUI page once login first
+
+<img src = "Functional-NonFunctional.png"/>
 
 ## Technologies Chosen: Industry Best Practices : Cloud Deployment : Dev Ops Principles
 
@@ -63,6 +66,9 @@ set up with a build pipeline within the platform.
 understanding the flow of work, not passing defects downstream, and testing my code
 before deployments properly. Being mindful of potential log file issues and print lines in
 critical health portions of the app was something I was extremely mindful of.
+
+<img src = "Logical Solution Diagram.png"/>
+
 
 ## New technologies learned : Why there were chosen
 Database: MongoDB was used simply to gain more knowledge about NoSql databases!
@@ -96,6 +102,10 @@ was going to be passed and the requirements that would need to be met. We also t
 about specific libraries that would need to be used for this project and he assisted me on
 my understanding of using APIs in a full stack environment
 
+<img src = "UML Backend.png"/>
+<img src = "FrontEndUML.png"/>
+
+
 ## Risks : Challenges
 
 - Risks: Some of the risks that I encountered switching to Angular was managing my time
@@ -113,6 +123,11 @@ my mentor at all times. Throughout this development process I worked with my men
 to ask numerous questions and seek guidance. This was really a great way to assess risk
 and to stay on track with project goals.
 
+### Project File Structure Angular
+<img src = "AngularFolder.png"/>
+
+### Project File Structure Spring
+<img src = "ProjectStructure.png"/>
 ## Outstanding Issues
 - Outstanding issues : The issues are simple formatting data responses and saving the
 calendar to the database. As of right now the calendar function is not saved to the
