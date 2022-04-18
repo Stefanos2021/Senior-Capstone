@@ -1,7 +1,11 @@
 # WorkxTimeAndAttendance
 
 ## Welcome to my Senior Capstone ReadMe File. 
-## In this document I will be talking about cool features I implemented and explaining the reasoning behind my documentation!
+## In this document I will be talking about cool features I implemented and explaining the reasoning behind my documentation
+
+### Link to Portfolio Website where you can download and see more about this project and my other ventures!
+
+https://stefanossophocleous.herokuapp.com/
 
 <img src="Detailed Solution.png" />
 
