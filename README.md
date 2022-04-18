@@ -5,6 +5,9 @@
 ### Link to Portfolio Website where you can download and see more about this project and my other ventures!
 https://stefanossophocleous.herokuapp.com/
 
+### Link to Video Demo Of Project
+Insert Link Here
+
 ### Download Link to Full Diagram Report
 <a href="Project Portfolio Doc.zip" download>Click to Download</a>
 ### Project Introduction : Problem we are trying to solve
@@ -131,6 +134,7 @@ and to stay on track with project goals.
 
 ### Project File Structure Spring
 <img src = "ProjectStructure.png"/>
+
 ## Outstanding Issues
 - Outstanding issues : The issues are simple formatting data responses and saving the
 calendar to the database. As of right now the calendar function is not saved to the
