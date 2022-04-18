@@ -5,4 +5,6 @@
 
 <img src="Detailed Solution.png" />
 
-### here
+### For my Technology Stack I chose to work with 
+#### MongoDB, Spring Boot, Angular JS
+
