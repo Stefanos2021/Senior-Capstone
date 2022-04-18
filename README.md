@@ -6,7 +6,7 @@
 https://stefanossophocleous.herokuapp.com/
 
 ### Download Link to Full Diagram Report
-<a href="Doc3.docx" download>Click to Download</a>
+<a href="Project Portfolio Doc.zip" download>Click to Download</a>
 ### Project Introduction : Problem we are trying to solve
 At Work Time And Attendance our team strives to achieve one
 simple goal, provide the best product while ensuring the highest quality service. For
