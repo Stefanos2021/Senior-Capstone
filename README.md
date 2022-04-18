@@ -9,4 +9,4 @@
 #### MongoDB, Spring Boot, Angular JS
 
 <img src="Logical Solution Diagram.png"/>
-This diagram was the most helpful in my planning phase. I was able to map out the logical solutions and see the project in a different lense! I made adjustments to my project as needed.
+ I was able to map out the logical solutions and see the project in a different lense! I made adjustments to my project as needed. I display the connections and the libraries used in my application. AntZlibrary was a great resource to design the UI, and Kendo was used for the scheduler. I ended using 2 apis with over 14 endpoints!
