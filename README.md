@@ -15,3 +15,8 @@
  ### Here is the UML diagram. I was abled to map out the backend as clean as possible. However, for the front end I mapped AngularJS files by components
  <img src = "UML Backend.png"/>
  <img src = "FrontEndUML.png"/>
+
+
+### If interested in my project structure! Here are a few snippets as well! 
+### Front End
+<img src = "ProjectStructure.png"/>
