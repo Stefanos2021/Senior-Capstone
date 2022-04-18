@@ -1,2 +1,2 @@
 # WorkxTimeAndAttendance
-<img src="UI.PNG" />
+<img src="UI.png" />
