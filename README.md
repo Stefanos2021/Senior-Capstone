@@ -23,3 +23,9 @@
 
 ### Front End (Angular JS)
 <img src = "AngularFolder.png"/>
+
+### Snippets from my TimeCard API Class
+<img src="TimeCardEntity.png"/>
+
+### Snippets from my Employee API Class
+<img src="EmployeeEntity.png"/>
