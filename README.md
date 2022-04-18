@@ -20,5 +20,6 @@
 ### If interested in my project structure! Here are a few snippets as well! 
 ### Back End (Spring Boot)
 <img src = "ProjectStructure.png"/>
+
 ### Front End (Angular JS)
 <img src = "AngularFolder.png"/>
