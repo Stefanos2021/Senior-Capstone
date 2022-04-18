@@ -24,10 +24,12 @@ https://stefanossophocleous.herokuapp.com/
 ### If interested in my project structure! Here are a few snippets as well! 
 ### Back End (Spring Boot)
 <img src = "ProjectStructure.png"/>
+Packages were created with proper naming convention to reflect MVC architecture!
+
 
 ### Front End (Angular JS)
 <img src = "AngularFolder.png"/>
-
+Folders were created with proper naming convention to reflect MVC Architecture!
 ### Snippets from my TimeCard API Class
 <img src="TimeCardEntity.png"/>
 
