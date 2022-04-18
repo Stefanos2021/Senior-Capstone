@@ -1,7 +1,6 @@
 # WorkxTimeAndAttendance
 
 ## Welcome to my Senior Capstone ReadMe File. 
-## In this document I will be talking about cool features I implemented and explaining the reasoning behind my documentation
 
 ### Link to Portfolio Website where you can download and see more about this project and my other ventures!
 
@@ -36,3 +35,31 @@ variety of different screen sizes.
 - Admin will be able to Create, Read, Update, Delete, Schedules
 - Admin will have access to a setting page.
 - Admin will be directed to the EmployeeUI page once login first
+
+## Technologies Chosen: Industry Best Practices : Cloud Deployment : Dev Ops Principles
+
+- Database: MongoDB, This database was chosen because I wanted to build an enterprise
+application that was not sql based. Since the industry is moving towards this direction, I
+felt confident that this would be a great experience based on the content I viewed on their
+main documentation site.
+
+- Front End : Angular-JS, This framework was chosen because it leveraged the MVC
+architecture. Frameworks that support the MVC architecture is something I felt really
+comfortable with prior to this capstone. Knowing this and the rise of popularity Angular
+has in the software development realm made this a great choice. Additionally, the amount
+of support this has with my chosen backend framework made it an extremely stable
+framework.
+
+- Back End : Java - Spring Boot, Spring Boot was chosen because of its simplicity as a
+framework. Spring Boot when researched was a very stable framework that was
+extremely intriguing when I first was introduced to it. Compared to other frameworks I
+saw with Java, Spring Boot also worked great with a variety of Front End Frameworks
+like Angular making this a great choice.
+
+- Cloud Deployment: This application was deployed to the cloud in Azure and is currently
+set up with a build pipeline within the platform.
+
+- DevOps Principles: . The DevOps principles that were applied in this process were
+understanding the flow of work, not passing defects downstream, and testing my code
+before deployments properly. Being mindful of potential log file issues and print lines in
+critical health portions of the app was something I was extremely mindful of.
