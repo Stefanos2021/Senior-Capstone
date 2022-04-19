@@ -140,4 +140,4 @@ and to stay on track with project goals.
 ## Outstanding Issues
 - Outstanding issues : The issues are simple formatting data responses and saving the
 calendar to the database. As of right now the calendar function is not saved to the
-database simply hardcoded values.
+database simply hardcoded values. Also, Update Timecard is not working fully as intended
