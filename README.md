@@ -45,7 +45,7 @@ variety of different screen sizes.
 - Admin will have access to a setting page.
 - Admin will be directed to the EmployeeUI page once login first
 
-<img src = "Functional-NonFunctional.png"/>
+<img src = "Functional-NonFnctional.png"/>
 
 ## Technologies Chosen: Industry Best Practices : Cloud Deployment : Dev Ops Principles
 
