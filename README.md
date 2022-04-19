@@ -7,6 +7,8 @@ https://stefanossophocleous.herokuapp.com/
 
 ### Link to Video Demo Of Project
 Insert Link Here
+ Loom 1 https://www.loom.com/share/616d1af8cfb34eb6a9b769153cb4d2a2
+ Loom 2 https://www.loom.com/share/a7920c021b964338b6a78e4a322ce400
 
 ### Download Link to Full Diagram Report
 <a href="Project Portfolio Doc.zip" download>Click to Download</a>
