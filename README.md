@@ -1,6 +1,6 @@
 # WorkxTimeAndAttendance
 
-## Welcome to my Senior Capstone Project. 
+## Welcome to my Senior Capstone Project.  92 % Of requirements met!!
 
 ### Link to Portfolio Website where you can download and see more about this project and my other ventures!
 https://stefanossophocleous.herokuapp.com/
