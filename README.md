@@ -1,6 +1,6 @@
 # WorkxTimeAndAttendance
 
-## Welcome to my Senior Capstone ReadMe File. 
+## Welcome to my Senior Capstone Project. 
 
 ### Link to Portfolio Website where you can download and see more about this project and my other ventures!
 https://stefanossophocleous.herokuapp.com/
